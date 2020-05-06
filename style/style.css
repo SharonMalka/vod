@@ -1,0 +1,71 @@
+body{
+	background-color: white ;
+	}
+	#Titre{
+	text-align: center;
+	color: red;
+	font-size: 40px;
+	font-family: OCR A Std, monospace;
+	}
+
+	table{
+	width: 70%;
+	border-collapse: collapse;
+	margin: auto;
+		}
+
+	
+	td{
+	border: solid #707070;
+	padding: 10px;
+	color: black;
+	text-align: center;
+	font-size: 25px;
+	font-family: OCR A Std, monospace;
+	}
+	#tetetab{
+	border: solid #707070;
+	padding: 10px;
+	color: black;
+	text-align: center;
+	font-size: 25px;
+	font-family: OCR A Std, monospace;
+	font-weight: bold;
+	text-decoration:underline;
+	}
+
+	#acceuil{
+	margin-top:3%;
+	}
+
+	#texte{
+	color: black;
+	font-size: 20px;
+	font-family: OCR A Std, monospace;
+	}
+
+	#recherche{
+	margin-left:5%;
+	}
+
+	fieldset{
+	margin-left:20%;
+	margin-right:20%;
+	}
+
+	#bouton{
+	margin-left:1%;
+	width: 15%
+	}
+	
+	#inputtxt{
+	width: 80%;
+	}
+
+	#ajoutertxt{
+	width:25%;
+	}
+	
+	#drapeau{
+	padding:4%;
+	}
